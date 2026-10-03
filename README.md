@@ -1,5 +1,11 @@
 # Line Editor in C
 
+## Team Members
+
+- Rakesh
+- Likhith
+- Harsha
+- 
 ## Overview
 
 This project implements a command-line Line Editor in C.
