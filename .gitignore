@@ -1,0 +1,5 @@
+line_editor
+document.txt
+*.txt
+.DS_Store
+.vscode/
